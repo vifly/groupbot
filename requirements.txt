@@ -1,0 +1,2 @@
+pyTelegramBotAPI>=3.7.2
+urlextract>=1.0.0
